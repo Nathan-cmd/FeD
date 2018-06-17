@@ -1,4 +1,4 @@
-#Opdracht 2
+# Frontend-Opdracht-2
 
 Deze website is een opzet voor een portfolio site en maakt gebruik van verschillende elementen die van toepassing zijn op de FeD opdracht.
 
