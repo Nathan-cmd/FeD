@@ -1,0 +1,163 @@
+* {
+	top: 0;
+	left:0;
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 100;
+
+}
+
+
+/*Fonts*/
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+/*Usage: font-family: 'Poppins', sans-serif;*/
+
+
+$baseColor: #113D2E;
+$baseLight: #5CAE8B;
+$baseHighlight: #B6D4A7;
+$baseShadeOne: #06271C;
+$accent: #E24F35;
+
+body {
+	background-color: $baseColor;
+}
+
+body header {
+	
+	h1 {
+		background-color: $baseColor;
+		color: white;
+		padding: .8em;
+		font-size: 1.1em;
+		font-weight: 800;
+
+	}
+
+	nav ul {
+		background-color: $baseLight;
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: space-around;
+		color: white;
+		font-size: .7em;
+		padding-top: .6em;
+		text-align: center;
+		border-bottom: .4em solid $baseShadeOne;
+		
+
+		li {
+			line-height: 2em;
+			list-style-type: none;
+			flex: 1 0 auto;
+			max-width: 20%;
+			position: relative;
+			top: .35em;
+			font-size: 1.3em;
+			border-bottom: .4em solid $baseShadeOne;
+
+
+
+
+
+		}
+
+		li.select {
+			border-bottom: .4em solid $accent;
+		}
+	}
+
+
+
+}
+
+
+body main {
+
+	ul{
+		display: flex;
+		flex-flow:column nowrap;
+	}
+
+	
+
+	li {
+		
+	}
+
+	li {
+
+		div:nth-child(2){
+			font-size: 1.2em;
+		}
+
+		div:nth-child(3){
+			font-size: .7em;
+		}
+
+		div:nth-child(4){
+			font-size: .8em;
+			font-weight: 100;
+			text-align: right;
+			padding-right: .5em;
+
+			position: relative;
+			top: -1.6em;
+		
+
+		}
+
+	}
+}
+
+
+
+
+
+
+
+
+
+main {
+
+	ul { 
+		list-style-type: none; 
+		margin-top: 1em;
+	}
+
+	li {
+		box-sizing: border-box;
+		color:white;
+		padding: .5em;
+		border: .025em solid rgba(255,255,255,0.6);
+		transition: transform .4s;
+
+	}
+
+	li.over {
+		box-sizing: border-box;
+  		border: .15em solid $accent;
+  		opacity: 0.6;
+  		transform: scale(0.85);
+
+		transition: transform .4s;
+
+	}
+}
+
+.dragStart {
+	transform: scale(1.2);
+
+
+}
+
+div.iconHolder {
+	background: url("/img/icon.png") center center no-repeat;
+	-webkit-background-size: 50%;
+	background-size: 50%;
+	width: 3em;
+	height: 3em;
+	float: left;
+}
