@@ -121,7 +121,10 @@ function remove_email_injection($field = FALSE) {
 					<label for="tabTwo">User Experience</label>
 					<div class="content">
 						<p>
-						 <br><br>
+						 De gebruikerservaring. Werkt het lekker? Voelt het goed? Is het intuïtief? Allemaal vragen die betrekking hebben op de <italic>User Experience</italic> van een dienst of product. <br> <br>
+
+						Hier kun je op verschillende manieren achterkomen. Je kunt je doelgroep interviewen, bekende ontwerp patronen volgen of uitgebreid aan het testen met gebruikers. Of alle drie natuurlijk!
+
 						<a href="#">Download hier een deel van het project</a>
 						</p>
 						<div class="projectsPlaceholder">
@@ -138,9 +141,7 @@ function remove_email_injection($field = FALSE) {
 					<label for="tabThree">Concept Development</label>
 					<div class="content">
 						<p>
-
-
-						 <br><br>
+						Het ontwikkelen van nieuwe concepten en ideeën gaat niet zomaar. Besluit welk probleem je wilt oplossen en ga aan het brainstormen. Concept ontwikkeling is een belangrijk deel van de ontwikkeling van nieuwe producten en mits goed uitgevoerd kan een product of dienst verzekeren van toegevoegde waarde.
 						<a href="#">Download hier een deel van het project</a>
 						</p>
 						<div class="projectsPlaceholder">
