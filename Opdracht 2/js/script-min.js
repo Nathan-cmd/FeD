@@ -1,0 +1,1 @@
+window.onscroll=function(){window.innerHeight+window.scrollY>=document.body.offsetHeight-1e3&&(document.querySelector(".main").className="aniOne")};
