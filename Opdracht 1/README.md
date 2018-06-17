@@ -1,4 +1,4 @@
-Opdracht 1
+# Frontend-Opdracht-1
 
 Deze audio player is gemaakt in HTML/CSS en houdt rekening met de volgende ontwerp principes.
 
@@ -19,9 +19,8 @@ Elementen kunnen versleept worden. Wanneer gebruikers deze interactie aangaan kr
 De visuele hiërarchie speelt ook door in de typografie van het ontwerp. Het bekende ontwerp patroon is dat de titel aan de bovenkant van de applicatie staat. Daarnaast hebben de individuele tracks ook een artiest naam en de naam van het liedje. Het naam van het liedje is groter dan de artiesten naam. Dit is een ontwerp patroon dat veelal gebruikt worden zowel in digitale als in de analoge manier van tracks weergeven. 
 
 
+--------
 
-
-# Frontend-Opdracht-1
 
 Veel geprobeerd en voorbeelden overgenomen om te kijken wat werkt. 
 Weinig succes vooral op het gebied van visuele feedback wanneer een item in de list geplaatst wordt. 
