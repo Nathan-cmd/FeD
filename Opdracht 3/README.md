@@ -28,6 +28,16 @@ Voor attracties die geen afbeeldingen bevatten heb ik een 'geen afbeelding' url 
 
 Het grootste probleem met dit ontwerp is wanneer gebruiker snel twee keer klikken de afbeelding niet verspringt zoals verwacht. 
 
+4 Keep users in control:
+Door gebruik te maken van pijlen in de carousel kunnen gebruikers zelf bepalen in welke richting en wanneer de volgende slide plaats moet vinden. Ontwerpen waarbij de afbeeldingen automatisch verschuiven missen deze functionaliteit en interactie.
+
+9 Appearance follows behaviour:
+Pijlen zijn een bekend ontwerp patroon om aan te geven wat een trigger doet of wat de bedoeling is van een ontwerp. Aan de rechterkant is een pjil om naar rechts te navigeren en aan de linkerkant is een pijl naar links waarmee naar links genavigeerd kan worden. Een alternatief ontwerp waarbij dit niet gebeurd is bijvoorbeeld de twee triggers onder elkaar plaatsen. Dit is geen intuitieve interactie maar wordt nog wel eens gebruikt in web design. 
+
+10 Strong visual hierarchies:
+Het focal punt van het ontwerp is duidelijk, maar niet erg origineel. De header balk en intro text zijn nihiel, en ook minder van belang. De carousel zelf bevat ook hierarchie. De foto als achtergrond is het sterkste visuele punt. Met linksboven de titel, groter dan de paragaaf met omschrijving is het duidelijk voor gebruikers in welke volgorde het element bekenen moet worden. 
+
+
 
 
 
