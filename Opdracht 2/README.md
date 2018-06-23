@@ -8,6 +8,6 @@ Deze website is een opzet voor een portfolio site en maakt gebruik van verschill
 Na de full-size header foto is er een container element met verschillende tabs. Door niet alle informatie in een oogwerk te weergeven - wat belastend kan zijn voor gebruikers - worden de delen die ik wil laten zien opgebroken in verschillende rubrieken. Gebruikers kunnen de informatie per rubriek, stap-der-wijs bekijken. 
 <br><br>
 <b>Natural Next Step & Progressive Disclosure</b><br>
-Een element met verschillende tabs nodigt uit om te bekijken. Tabs zijn een bekend fenomeen in de analoge en digitale wereld. Het betekend dat er gecategoriseerde content is waar gemakkelijk bij te komen is. 
+Een element met verschillende tabs nodigt uit om te bekijken. Tabs zijn een bekend fenomeen in de analoge en digitale wereld. Het betekend dat er gecategoriseerde content is waar gemakkelijk bij te komen is. Dit is beter dan alle content onder elkaar plaatsen. Pas als gebruikers de content willen zien/nodig hebben kunnen ze door middel van interactie erbij komen. 
 <br>
 
