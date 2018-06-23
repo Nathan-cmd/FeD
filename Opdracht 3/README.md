@@ -24,6 +24,10 @@ Dit ontwerp was wel functioneel, maar dekte de lading niet helemaal omdat de bes
 
 Ook het uiteindelijke ontwerp heeft de focus vooral op de techniek gelegd. Een carousel maken ging niet zo makkelijk als ik dacht. De juiste manier om dit te doen is het opmeten van de breedte van de container en dat gebruiken als data voor JS om te berekenen hoe lang de parent container moet zijn en hoeveel px er opgeshoven moet worden. Calculus is niet voor mij weggelegd ik kwam hier niet uit en heb uiteindelijk besloten via de console op te zoeken hoeveel items er waren. Ik heb vastgesteld hoe groot ik de carousel wou hebben en heb de breedte van de children-elements opgeteld zodat het Unordered List element breed genoeg zou zijn voor alle onderwerpen. 
 
+Voor attracties die geen afbeeldingen bevatten heb ik een 'geen afbeelding' url doorgegeven via javascript. 
+
 Het grootste probleem met dit ontwerp is wanneer gebruiker snel twee keer klikken de afbeelding niet verspringt zoals verwacht. 
+
+
 
 
